@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 22px;
+    font-weight: bold;
+}
+p::before{
+    content: "salom"; 
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgba(255, 0, 0, 0.688);
+}
+p::after{
+    content: "..."; 
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgba(255, 0, 0, 0.688);
+}

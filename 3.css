@@ -1,0 +1,190 @@
+body{
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   background: url(bino.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.blazer{
+    text-align: center;
+
+}
+h2{
+   background-color: white;
+   padding: 10px 14px;
+   width: 90px;
+   border-radius: 50%;
+   color: #333;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 30px;
+   position: relative;
+   left: 46%;
+   
+}
+h1{
+    color: rgb(7, 133, 230);
+    font-size: 40px;
+    letter-spacing: 1.5px;
+    font-weight: 500;
+}
+p{
+    color: #fff;
+    font-size: 18px;
+    padding: 30px 0px ;
+}
+.dox{
+    display: flex;
+    margin: 0px 500px;
+    padding: 40px;
+     
+}
+.box{
+    border-left: 5px solid rgb(0, 106, 255);
+    border-top: 5px solid rgb(0, 106, 255);
+    border-right: 5px solid rgb(0, 106, 255);
+    border-bottom: 5px solid rgb(0, 106, 255);
+    width: 200px;
+    height: 150px;
+    margin: 0px 30px;
+    border-radius: 50%;
+}
+.rox{
+    border-left: 5px solid rgb(0, 106, 255);
+    border-top: 5px solid  gray;
+    border-right: 5px solid  rgb(0, 106, 255);
+    border-bottom: 5px solid  rgb(0, 106, 255);
+    width: 200px;
+    height: 150px;
+    margin: 0px 20px ;
+    border-radius: 50%;
+    rotate: -20deg;
+    position: relative;
+    left: -40px;
+}
+.lox{
+    border-left: 5px solid grey;
+    border-top: 5px solid #808080;
+    border-right:  5px solid  rgb(0, 106, 255);
+    border-bottom: 5px solid  rgb(0, 106, 255);
+    width: 200px;
+    height: 150px;
+    margin: 0px -20px;
+    border-radius: 50%;
+    transition: all 0.3s linear;
+    rotate: -30deg;
+    position: relative;
+    left: 10px;
+}
+.solo{
+    border-left: 5px solid rgb(0, 106, 255);
+    border-top: 5px solid grey;
+    border-right: 5px solid rgb(0, 106, 255);
+    border-bottom: 5px solid rgb(0, 106, 255);
+    width: 200px;
+    height: 150px;
+    margin: 0px 30px;
+    border-radius: 50%;
+    position: relative;
+    left: -65px;
+
+}
+.dox p{
+    padding: 0px;
+    margin: 0px;
+    color: red;
+}
+ .dox .dala{
+    color:white;
+    position: relative;
+    left: 40px;
+    padding-top: 30px;
+}
+ .dox .dalba{
+    color: white;
+    position: relative;
+    left: 50px;
+    padding-top: 10px;
+    font-size: 33px;
+    letter-spacing: 1px;
+    font-weight: 600
+}
+ .dox .dalbadron{
+    color: white;
+    position: relative;
+    left: 30px;
+    top: 32px;
+    padding-top: 7px;
+    font-size: 33px;
+    letter-spacing: 1px;
+    font-weight: 600
+}
+.dox .dalaklk{
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 50px;  
+}
+.dox .bepoyon{
+    color: white;
+    position: relative;
+    top: 30px;
+    left: -70px;
+    padding-top: 10px;
+}
+.dox .yurakalar{
+    color: white;
+    position: relative;
+    top: 60px;
+    left: -110px;
+    padding-top: 10px;
+    font-size: 33px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.fon .dool{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    left: 975px;
+    top: -320px;
+}
+.fon .cold{
+    color: white;
+    padding: 0px;
+    margin:10px 10px;
+    font-size: 33px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    position: relative;
+    left: 975px;
+    top: -320px;
+}
+input{
+    position: relative;
+    left: 600px;
+    margin-top: 40px;
+    width: 600px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0.558);
+    border: 2px solid rgb(0, 132, 255);
+    padding: 0px 10px; 
+}
+button{
+    position: relative;
+    left: 595px;
+    height: 34px;
+    padding: 8px 7px ;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: white;
+    background-color:rgb(0, 128, 255) ;
+    border: rgb(0, 128, 255);
+}
+.ikonlar{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
